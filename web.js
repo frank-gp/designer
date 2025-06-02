@@ -2,13 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!--     https://github.com/enyeinnovation/illustrator -->
-    <script src="https://frankgp.com/stats/send.js" type="module"></script>
-    <script src="https://enyeinnovation.github.io/illustrator/web.js" defer></script>
+    <script src="https://frank-gp.github.io/component/stat.js" type="module"></script>
+    <script src="https://frank-gp.github.io/designer/web.js" defer></script>
   </head>
   <body></body>
 </html>
-
 */
 let head1 = /*html*/ `
     
@@ -19,16 +17,16 @@ let head1 = /*html*/ `
 <meta name="site_locale" content="en_RU" />
 <meta name="robots" content="index" />
 
-<title>Illustrator | Frank GP</title>
-<meta name="description" content="I specialize in creating vector illustrations in Adobe Illustrator." />
+<title>Designer | Frank GP</title>
+<meta name="description" content="I create modern, responsive, and user-friendly websites using HTML, CSS, and JavaScript." />
 
-<meta property="og:title" content="Illustrator | Frank GP" />
-<meta property="og:description" content="I specialize in creating vector illustrations in Adobe Illustrator." />
+<meta property="og:title" content="Designer | Frank GP" />
+<meta property="og:description" content="I create modern, responsive, and user-friendly websites using HTML, CSS, and JavaScript." />
 <meta property="fb:app_id" content="1526445401046904" />
 <meta property="og:locale" content="en_RU" />
 <meta property="og:type" content="Website" />
 <meta property="og:site_name" content="Enye®" />
-<meta property="og:url" content="https://frankgp.com/illustrator/" />
+<meta property="og:url" content="https://frank-gp.github.io/designer/" />
 <meta property="og:image" content="https://i.postimg.cc/mDyMcztp/fb-cover.png" />
 <meta property="og:image:width" content="600" />
 <meta property="og:image:height" content="314" />
